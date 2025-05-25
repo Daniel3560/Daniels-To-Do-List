@@ -1,5 +1,3 @@
-Here's a simpler, plain text version of the README description:
-
 React To-Do List Application
 
 This is a straightforward to-do list app built with React. It shows how I use React to make web pages that change as you use them.
