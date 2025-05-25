@@ -11,7 +11,6 @@ What it Does:
 You can add new tasks to your list.
 You can mark tasks as done.
 You can remove tasks from your list.
-(Optional: if you implemented it) Your tasks might stay saved even if you close the browser.
 What I Used to Build It:
 
 React: A JavaScript tool for making user interfaces.
