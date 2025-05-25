@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Daniels-To-Do-List/static/css/main.e6c13ad2.css",
+    "main.js": "/Daniels-To-Do-List/static/js/main.22f72fca.js",
+    "static/js/453.459ffc7a.chunk.js": "/Daniels-To-Do-List/static/js/453.459ffc7a.chunk.js",
+    "index.html": "/Daniels-To-Do-List/index.html",
+    "main.e6c13ad2.css.map": "/Daniels-To-Do-List/static/css/main.e6c13ad2.css.map",
+    "main.22f72fca.js.map": "/Daniels-To-Do-List/static/js/main.22f72fca.js.map",
+    "453.459ffc7a.chunk.js.map": "/Daniels-To-Do-List/static/js/453.459ffc7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.22f72fca.js"
+  ]
+}
